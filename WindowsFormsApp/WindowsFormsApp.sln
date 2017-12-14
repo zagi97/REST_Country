@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp", "WindowsFormsApp\WindowsFormsApp.csproj", "{11C13D73-32C0-48CF-8EA7-DBC293A225C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESTapi", "RESTapi\RESTapi.csproj", "{654B5769-A613-47B7-976D-5F456F76355A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUD", "CRUD\CRUD.csproj", "{76A0C9C9-817B-443A-8CFB-707FE70B9CDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11C13D73-32C0-48CF-8EA7-DBC293A225C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C13D73-32C0-48CF-8EA7-DBC293A225C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C13D73-32C0-48CF-8EA7-DBC293A225C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C13D73-32C0-48CF-8EA7-DBC293A225C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654B5769-A613-47B7-976D-5F456F76355A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B5769-A613-47B7-976D-5F456F76355A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B5769-A613-47B7-976D-5F456F76355A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B5769-A613-47B7-976D-5F456F76355A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A0C9C9-817B-443A-8CFB-707FE70B9CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A0C9C9-817B-443A-8CFB-707FE70B9CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A0C9C9-817B-443A-8CFB-707FE70B9CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A0C9C9-817B-443A-8CFB-707FE70B9CDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
